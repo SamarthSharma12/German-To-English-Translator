@@ -46,7 +46,7 @@ Here I have use LSTM model and train the data prepare english and german tokeniz
 
 Step 8
 
-Now the last work I have to do is to test the model and check the accuracy of the model.
+Now the last work I had done was to test the model and check the accuracy of the model.
 
 ![image](https://user-images.githubusercontent.com/98225415/218554576-9cc96611-fc3a-485f-85df-84b6c3ce09aa.png)
 
