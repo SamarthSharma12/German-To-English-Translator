@@ -18,6 +18,7 @@ Now I have load the data and clean the data like removed non-printable character
 Step 4
 
 After saving the pickles for the English-German phrases with cleaning and saving in the list, I have used the following function to load it into the code for training.
+
 ![image](https://user-images.githubusercontent.com/98225415/218533093-cdcf50bc-7ec4-425d-bb62-d01fa9bef189.png)
 
 Then I have split the dataset into train and test list into three pickles to reduce the dataset to my use case.
