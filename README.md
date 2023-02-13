@@ -32,3 +32,25 @@ To train an LSTM with text, I took a tokenizer.I have used the following functio
 ![image](https://user-images.githubusercontent.com/98225415/218535179-b1fc35e6-85ba-4007-a8ef-77df25ee84fe.png)
 
 Step 6
+Then I have use one hot encoding for categorical data to convert into a form that can be used for ML algorithms to increase the accuracy of the model.
+
+![image](https://user-images.githubusercontent.com/98225415/218552747-825a745c-1daa-4028-8431-d7313cc8609f.png)
+
+Step 7 
+
+Here I have use LSTM model and train the data prepare english and german tokenizer prepare training and validation data and defined it in the model.
+
+![image](https://user-images.githubusercontent.com/98225415/218554060-de520105-ebe9-4a69-b5c0-7ca94f7d5356.png)
+
+![image](https://user-images.githubusercontent.com/98225415/218554206-19051c47-36bd-4c1c-b82f-06b33f193238.png)
+
+Step 8
+
+Now the last work I have to do is to test the model and check the accuracy of the model.
+
+![image](https://user-images.githubusercontent.com/98225415/218554576-9cc96611-fc3a-485f-85df-84b6c3ce09aa.png)
+
+![image](https://user-images.githubusercontent.com/98225415/218554694-494cbb4a-91be-4bfc-8e47-40bb327ab2bb.png)
+
+
+
